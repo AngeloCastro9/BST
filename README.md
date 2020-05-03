@@ -1,5 +1,5 @@
 # BST
-Binary search tree
+## Binary search tree
 
 **How execute the code?**
 
